@@ -2,11 +2,11 @@
 *BELOW Is the Rubric the students SHOULD have followed.  Go through each step and determine how many points they earned.*
 Record the score in the file marked SCORE
 
-Step 1: The student created a file named MyFile.py (5 points)
-        The student created a file but did not capitolize M and F in MyFile.py (4 points)
-        The student created a file named something else, but it included .py making it a python file (3 points)
-        The stduetn created a file but it was not a python file (2 points)
-        The student did not create a file (0 points)
+Step 1: The student created a file named MyFile.py *(5 points)*
+        The student created a file but did not capitolize M and F in MyFile.py *(4 points)*
+        The student created a file named something else, but it included .py making it a python file *(3 points)*
+        The stduetn created a file but it was not a python file *(2 points)*
+        The student did not create a file *(0 points)*
 
 Step 2:  Count the number of commits in the file and award 1 point per commit.  They can earn up to 10 points.  
 
