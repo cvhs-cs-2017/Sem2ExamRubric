@@ -116,4 +116,6 @@ If none succeed but they tried *(1 point)*
 
 
 **#Add each score into the Score file and total the amount.**
-Commit changes to the repository and synch.
+Fill out the google form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSe48fOJryhAww2-FXE0yvL61Jq29CJUN3CSTmat-w7QT3W-gQ/viewform
